@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+oracledb
+sqlalchemy
+databases
+python-dotenv
+pytest
+pytest-asyncio
+httpx
